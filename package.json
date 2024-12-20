@@ -1,0 +1,25 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "This is swiggy clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anujkamaljain/Swiggy.git"
+  },
+  "author": "anuj kamal jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anujkamaljain/Swiggy/issues"
+  },
+  "homepage": "https://github.com/anujkamaljain/Swiggy#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
